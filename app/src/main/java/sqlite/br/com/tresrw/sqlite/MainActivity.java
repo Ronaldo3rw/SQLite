@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 
         // Testes de sincronização do Android Studio com o GitHub
 
-
+        // NOVO Teste de sincronização do Android Studio com o GitHub
 
 
     }
